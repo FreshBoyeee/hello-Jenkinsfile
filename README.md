@@ -6,4 +6,4 @@ testsf
 
 hello from 2023
 
-pipeline ooo
+pipeline ooos fa f
